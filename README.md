@@ -15,7 +15,7 @@
         
                 큰 숫자 변환기 & 계산기
 
-                [공통 사항]
+        [공통 사항]
                 
                 빈 문자열 = 0 반환
 
@@ -25,15 +25,15 @@
 
 
         
-                <Big Number Converter> - 숫자 재화 단위 변환기(A~Z,AA,AAA...ZZZ)
+        <Big Number Converter> - 숫자 재화 단위 변환기(A~Z,AA,AAA...ZZZ)
     
-                        TextArea에 숫자 입력 후, Convert 버튼 클릭
+                TextArea에 숫자 입력 후, Convert 버튼 클릭
 
 
                         
-                <Back to Big Number Converter> - 숫자+문자(A~Z, AA, AAA...) 리얼넘버(123412..) 변환기
+        <Back to Big Number Converter> - 숫자+문자(A~Z, AA, AAA...) 리얼넘버(123412..) 변환기
 
-                        TextArea에 숫자 혹은 숫자+문자 입력 후, Convert Back To Number 버튼 클릭
+                TextArea에 숫자 혹은 숫자+문자 입력 후, Convert Back To Number 버튼 클릭
 
                         
                 
