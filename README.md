@@ -2,11 +2,11 @@
         [패치 노트]
         
                 v1.0.1 -24.02.23 
-                       -null 및 빈 문자열 오류 수정
+                       - null 및 빈 문자열 오류 수정
 
 
                 v1.0.0 - 24.02.22
-                        Big Number Converter 기능 구현
+                       - Big Number Converter 기능 구현
 
 -------------------------------------------------------------------------------------
   ![image](https://github.com/kastro723/BigNumberConverter/assets/55536937/a4905da8-4089-4f6f-8885-118a33000a54)
