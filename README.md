@@ -9,7 +9,8 @@
                        - Big Number Converter 기능 구현
 
 -------------------------------------------------------------------------------------
-  ![image](https://github.com/kastro723/BigNumberConverter/assets/55536937/a4905da8-4089-4f6f-8885-118a33000a54)
+<img width="400" height="668" alt="image" src="https://github.com/user-attachments/assets/bf83b061-a01f-4618-a730-f0d5ba6ff236" />
+
 
         [기능설명]
         
@@ -32,9 +33,11 @@
 
 
                         
-        <Back to Big Number Converter> - 숫자+문자(A~Z, AA, AAA...) 리얼넘버(123412..) 변환기
+        <Back to Big Number Converter> - 숫자+문자(A~Z, AA, AAA...)
+                                                -> 리얼넘버(123412..) 변환기
 
-                TextArea에 숫자 혹은 숫자+문자 입력 후, Convert Back To Number 버튼 클릭
+                TextArea에 숫자 혹은 숫자+문자 입력 후, 
+                        Convert Back To Number 버튼 클릭
 
                         
                 
